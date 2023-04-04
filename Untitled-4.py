@@ -1,4 +1,5 @@
 def sun():
     b = 5
     a = 6
-print(a + b)    
+    v = 9 
+print(a + b + v)    
